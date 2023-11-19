@@ -11,7 +11,7 @@
 
 ^.^| 2023.11.19
 |   
-    * link:https://github.com/ByunKi/nhn-academy-course-2/blob/main/quiz/Chapter_1.adoc[Unit 1 Quiz]
-    * link:https://github.com/ByunKi/nhn-academy-course-2/tree/main/exercise/unit_2[Unit 2 Exercise]
+    * link:https://github.com/ByunKi/nhn-academy-course-3/blob/main/MIT 6.005/Chapter_1.adoc[Unit 1, Static Checking]
+
 
 |===
