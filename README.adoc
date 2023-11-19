@@ -1,6 +1,6 @@
 = nhn-academy-course-3
 
-* nhn 아카데미 광주 4기, link:https://ocw.mit.edu/ans7870/6/6.005/s16/[선택과정 3^]에 대한 요약정리를 업로드하는 공간
+* nhn 아카데미 광주 4기, link:https://ocw.mit.edu/ans7870/6/6.005/s16/[선택과정 3]에 대한 요약정리를 업로드하는 공간
 
 == 학습 내용
 
